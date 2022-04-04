@@ -1,0 +1,25 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "1) Criar o servidor node utilizando o pacote Express 2) Criar um Array JSON no servidor para armazenar os dados de 5 clientes fictícios",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCastroAlves/Desafio-Servidor-CRUD-Simples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielCastroAlves/Desafio-Servidor-CRUD-Simples/issues"
+  },
+  "homepage": "https://github.com/DanielCastroAlves/Desafio-Servidor-CRUD-Simples#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "config": "^3.3.7",
+    "express": "^4.17.3"
+  }
+}
