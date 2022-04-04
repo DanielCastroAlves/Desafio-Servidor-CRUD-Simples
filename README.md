@@ -4,8 +4,7 @@
 
 Exemplos:
 
-https://www.delftstack.com/pt/howto/javascript/javascript-json-array-
-of-objects/
+https://www.delftstack.com/pt/howto/javascript/javascript-json-array-of-objects/
 
 3) Você deverá criará as seguintes APIs
 a. GET /clientes – retornar todos os clientes
