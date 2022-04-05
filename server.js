@@ -17,4 +17,3 @@ clienteRoute(app,config)
 app.listen(port, () => {
     console.log(`servidor rodadando: ${port}`)
 });
-
