@@ -1,0 +1,46 @@
+{
+  "clientes": {
+    "data": {
+      "1":{
+        "id": 1,
+        "nome": "Daniel Castro",
+        "endereco": "rua: A",
+        "email": "daniel@test.com",
+        "altura": 1.8,
+        "casado": false
+      },
+      "2":{
+        "id": 2,
+        "nome": "Dedeco Alves",
+        "endereco": "rua: B",
+        "email": "dedeco@test.com",
+        "altura": 1.75,
+        "casado": false
+      },
+      "3":{
+        "id": 3,
+        "nome": "Lorena Costa",
+        "endereco": "rua: C",
+        "email": "lorena@test.com",
+        "altura": 1.5,
+        "casado": true
+      },
+      "4":{
+        "id": 4,
+        "nome": "Luana Duater",
+        "endereco": "rua: C",
+        "email": "luana@test.com",
+        "altura": 1.76,
+        "casado": false
+      },
+      "5":{
+        "id": 5,
+        "nome": "Vitor Horta",
+        "endereco": "rua: E",
+        "email": "vitor@teste.com",
+        "altura": 1.73,
+        "casado": false
+      }
+    }
+  }
+}

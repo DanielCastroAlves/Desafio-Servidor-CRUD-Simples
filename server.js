@@ -8,6 +8,11 @@ let port = config.get("server.port");
 /* console.log("porta: ", port); */
 
 const app = express();
+app.use(express.json());
+app.use(express.urlencoded({extended: true}));
+
+const clienteRoute = require("./routes/clientes")
+clienteRoute(app,config)
 
 app.listen(port, () => {
     console.log(`servidor rodadando: ${port}`)
